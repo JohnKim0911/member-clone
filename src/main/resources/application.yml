@@ -18,4 +18,5 @@ spring:
     open-in-view: false
     show-sql: true
     hibernate:
-      ddl-auto: create
+#      ddl-auto: create #프로젝트 실행할때마다 db 테이블 다시 생성
+      ddl-auto: update #변경사항이 있을때만 테이블 변경
