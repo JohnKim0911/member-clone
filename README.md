@@ -2,7 +2,7 @@
 
 > 연습일: 2025.03.24(월) ~ 
 
-> 원본 유튜브 강의: https://youtu.be/RhM1bQ76Tv0?si=6oY8gFEk_DHcB7IP
+> 원본 유튜브 강의 (코딩레시피): https://youtu.be/RhM1bQ76Tv0?si=6oY8gFEk_DHcB7IP
 
 ## 주요 기능
 
