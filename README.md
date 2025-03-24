@@ -1,8 +1,8 @@
 # 회원 프로젝트 연습
 
-> 연습일: 2025.03.24(월) ~ 
+> 연습일: 2025.03.24(월) ➡️ 당일 완료
 
-> 원본 유튜브 강의 (코딩레시피): https://youtu.be/RhM1bQ76Tv0?si=6oY8gFEk_DHcB7IP
+> 참고한 유튜브 강의 (채널명: 코딩레시피): https://youtu.be/RhM1bQ76Tv0?si=6oY8gFEk_DHcB7IP
 
 ## 주요 기능
 
